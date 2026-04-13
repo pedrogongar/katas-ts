@@ -52,8 +52,6 @@ Ver [`ROADMAP-KATAS.md`](./ROADMAP-KATAS.md) para la planificación completa de 
 
 ## Índice de katas
 
-_Vacío. Se irá poblando conforme se completen los katas._
-
-| Kata | Bloque | Estado |
-| ---- | ------ | ------ |
-| —    | —      | —      |
+| Kata                                                        | Bloque | Dificultad | Estado     |
+| ----------------------------------------------------------- | ------ | ---------- | ---------- |
+| [ej01 — contar_caracteres](./katas/ej01_contar_caracteres/) | 1      | ★          | Completado |
