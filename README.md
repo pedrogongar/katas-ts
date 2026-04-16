@@ -58,3 +58,4 @@ Ver [`ROADMAP-KATAS.md`](./ROADMAP-KATAS.md) para la planificación completa de 
 | [ej02 — invertir_string](./katas/ej02_invertir_string/)     | 1      | ★          | Completado |
 | [ej03 — palindromos](./katas/ej03_palindromos/)             | 1      | ★          | Completado |
 | [ej04 — contar_vocales](./katas/ej04_contar_vocales/)       | 1      | ★          | Completado |
+| [ej05 — factorial](./katas/ej05_factorial/)                 | 1      | ★★         | Completado |
