@@ -57,3 +57,4 @@ Ver [`ROADMAP-KATAS.md`](./ROADMAP-KATAS.md) para la planificación completa de 
 | [ej01 — contar_caracteres](./katas/ej01_contar_caracteres/) | 1      | ★          | Completado |
 | [ej02 — invertir_string](./katas/ej02_invertir_string/)     | 1      | ★          | Completado |
 | [ej03 — palindromos](./katas/ej03_palindromos/)             | 1      | ★          | Completado |
+| [ej04 — contar_vocales](./katas/ej04_contar_vocales/)       | 1      | ★          | Completado |
